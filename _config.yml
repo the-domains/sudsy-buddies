@@ -1,7 +1,7 @@
 name: Sudsy Buddies
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.09455
+layout_spectrum: 0.39394
+typography_spectrum: 0.6009
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#00a1e2'
     - '#ffffff'
     - '#5b5b5b'
-  brandStrength: 0.75
+  brandStrength: 0.3125
   lightness: 0.5
   saturation: 0.8125
   rhythmicContrast: 0.5
