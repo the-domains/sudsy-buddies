@@ -1,4 +1,4 @@
-name: Sudsy Buddies
+name: 'Sudsy Buddies :)'
 favicon: null
 layout_spectrum: 0.49756
 typography_spectrum: 0.6009
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#ff76df'
-    - '#00a1e2'
+    - '#449bb5'
+    - '#68c39f'
+    - '#043d5d'
     - '#ffffff'
-    - '#5b5b5b'
-  brandStrength: 0.1875
+    - '#b8d9e3'
+  brandStrength: 0.75
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
