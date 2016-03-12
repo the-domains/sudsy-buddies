@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sudsy Buddies]]></title>
         <description><![CDATA[Sudsy Buddies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sudsy-buddies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 07:08:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 07:25:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sudsy-buddies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18dccd4f-54a6-4b21-b1cb-41d54fb07854.jpg">]]></description>
+            <link>https://thegrid.ai/sudsy-buddies/loofahs-for-the-whole-family/index.html</link>
+            <guid isPermaLink="false">e3ea9fc4-9734-4ba1-ad79-30ee1e2b73ea</guid>
+            <pubDate>Sat, 12 Mar 2016 07:24:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Loofahs with Labels?]]></title>
             <description><![CDATA[<article><h1>Loofahs with Labels?</h1><p></p></article>]]></description>
-            <link>undefined5ec0a015-ea7f-450f-a868-d601daa7cd62/index.html</link>
+            <link>https://thegrid.ai/sudsy-buddies/5ec0a015-ea7f-450f-a868-d601daa7cd62/index.html</link>
             <guid isPermaLink="false">5ec0a015-ea7f-450f-a868-d601daa7cd62</guid>
             <pubDate>Sat, 12 Mar 2016 07:08:21 GMT</pubDate>
         </item>
