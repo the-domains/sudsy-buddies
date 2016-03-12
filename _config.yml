@@ -1,0 +1,28 @@
+name: Sudsy Buddies
+favicon: null
+layout_spectrum: 0.6799155864864588
+typography_spectrum: 0.7768643549643457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8911446873098612
+  lightness: 0.5364218507893384
+  saturation: 0.6718614385463297
+  rhythmicContrast: 0.7787145455367863
+purpose: []
