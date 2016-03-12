@@ -1,7 +1,7 @@
 name: Sudsy Buddies
 favicon: null
-layout_spectrum: 0.6799155864864588
-typography_spectrum: 0.7768643549643457
+layout_spectrum: 1
+typography_spectrum: 0.09455
 cta:
   domain: null
   bucket: null
