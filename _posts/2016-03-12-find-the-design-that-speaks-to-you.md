@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T23:48:47.574Z'
-dateModified: '2016-03-12T23:03:39.100Z'
+datePublished: '2016-03-12T23:59:35.463Z'
+dateModified: '2016-03-12T23:59:21.137Z'
 title: 'Find The Design That Speaks To You!'
 author: []
 sourcePath: _posts/2016-03-12-find-the-design-that-speaks-to-you.md
