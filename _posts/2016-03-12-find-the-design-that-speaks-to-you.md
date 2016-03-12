@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Find The Design That Speaks To You!'
-datePublished: '2016-03-12T07:30:32.243Z'
-dateModified: '2016-03-12T07:30:10.734Z'
+datePublished: '2016-03-12T08:12:50.848Z'
+dateModified: '2016-03-12T07:30:38.286Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-find-the-design-that-speaks-to-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-find-the-design-that-speaks-to-you.md
-published: true
 url: find-the-design-that-speaks-to-you/index.html
 _type: Article
 
