@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T08:35:30.026Z'
-dateModified: '2016-03-12T08:18:21.036Z'
+datePublished: '2016-03-12T23:54:21.182Z'
+dateModified: '2016-03-12T08:35:32.223Z'
 title: 'Loofahs for the whole family!'
 author: []
 sourcePath: _posts/2016-03-12-loofahs-for-the-whole-family.md
