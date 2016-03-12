@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T08:24:25.101Z'
-dateModified: '2016-03-12T08:24:24.103Z'
+datePublished: '2016-03-12T23:48:47.574Z'
+dateModified: '2016-03-12T23:03:39.100Z'
 title: 'Find The Design That Speaks To You!'
 author: []
 sourcePath: _posts/2016-03-12-find-the-design-that-speaks-to-you.md
@@ -25,6 +25,6 @@ _type: Article
 # Find The Design That Speaks To You!
 
 We think you'll love these designs, and know you'll love what we're currently working on (can't wait to show you)! Until then, you can find our products on Amazon.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e18e23a7-2195-48cd-8188-a0bd83f97f07.jpg)
 
 We think you'll love these designs, and know you'll love what we're currently working on (can't wait to show you)! Until then, you can find our products on Amazon.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e18e23a7-2195-48cd-8188-a0bd83f97f07.jpg)
