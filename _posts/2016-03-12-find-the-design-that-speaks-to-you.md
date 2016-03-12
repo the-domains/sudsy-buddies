@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Find The Design That Speaks To You!'
-datePublished: '2016-03-12T08:16:38.188Z'
-dateModified: '2016-03-12T08:16:23.993Z'
+datePublished: '2016-03-12T08:18:29.469Z'
+dateModified: '2016-03-12T08:16:38.946Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-find-the-design-that-speaks-to-you.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 Find The Design That Speaks To You!
 
-## Whether you're a "Who's Your Daddy???" kind of guy, or a proud "Mommy", in a "Whatever" kind of mood or in love and want to send hugs and kisses ("XOXO"), we've got a design for you.
+Whether you're a "Who's Your Daddy???" kind of guy, or a proud "Mommy", in a "Whatever" kind of mood or in love and want to send hugs and kisses ("XOXO"), we've got a design for you.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e18e23a7-2195-48cd-8188-a0bd83f97f07.jpg)
 
 We think you'll love these designs, and know you'll love what we're currently working on (can't wait to show you)! Until then, you can find our products on Amazon.
